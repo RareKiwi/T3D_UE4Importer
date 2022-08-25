@@ -11,6 +11,7 @@ Use Code > Download ZIP
 Install:
 
 Requires the engine plugin "Editor Scripting Utilities" and UE4.27
+
 Place loose files somewhere in your projects "/Content/"
 
 

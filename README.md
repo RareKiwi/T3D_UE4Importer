@@ -2,20 +2,20 @@ T3D UE4Importer is a collection of UE4 Editor Utility widgets that can be used t
 
 
 
-Download:
+##Download:
 
 Use Code > Download ZIP
 
 
 
-Install:
+##Install:
 
 Requires the engine plugin "Editor Scripting Utilities" and UE4.27
 
 Place loose files somewhere in your projects "/Content/"
 
 
-Related Software:
+##Related Software:
 
 UE4-T3DConverter
 https://forums.unrealengine.com/t/tool-ue4-t3d-converter-for-bsp-brushes/4057

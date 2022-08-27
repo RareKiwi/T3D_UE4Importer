@@ -1,7 +1,22 @@
+![](https://imgur.com/uxXfo56.png)
+
 # &middot; T3D UE4Importer &middot;
 
 
 T3D UE4Importer is a collection of UE4 Editor Utility widgets that can be used to simplify the process of converting Unreal Engine 2 levels and the needed referenced assets to Unreal Engine 4.27
+
+## Expectations:
+
+- Static Meshes imported and placed in level
+   - Materials and textures assigned in bulk.
+- Lights imported
+   - Approximate conversion of settings to match old light rendering
+- Other actors imported as text actors
+   - Paramaters from .T3D added as actor tags
+- Brush import
+   - Bulk import of materials and textures referenced.
+   - Materials assigned to surfaces.
+   > Brush UVs are misaligned, but can be mostly resolved by setting scale to 2.56 x 2.56
 
 ## Download:
 

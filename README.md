@@ -25,7 +25,8 @@ Place loose files somewhere in your projects __*`/Content/`*__
 [Victory Plugin](https://forums.unrealengine.com/t/39-ramas-extra-blueprint-nodes-for-you-as-a-plugin-no-c-required/3448)([4.27 Direct Link](https://www.mediafire.com/file/1snjjuxuoqs6b4g/VictoryPlugin27.zip/file))
 
 ## Usage:
-Coming Soon
+
+[Usage Tutorial](../../wiki/Usage-Tutorial)
 
 ## Images:
 

@@ -16,10 +16,11 @@ for root, dirs, files in os.walk(path):
                 bpy.ops.object.delete()
                 bpy.ops.import_scene.psk(filepath=mesh_file)
                 bpy.ops.object.select_all(action='SELECT')
-                for obj in bpy.data.objects:
-                    if obj.type == 'MESH':
-                        obj.data.use_auto_smooth = 1
-                        obj.data.auto_smooth_angle = 0.872665
+# matyalatte's updated psk plugin seems to import correct normals
+#                for obj in bpy.data.objects:
+#                    if obj.type == 'MESH':
+#                        obj.data.use_auto_smooth = 1
+#                        obj.data.auto_smooth_angle = 0.872665
                 bpy.ops.object.shade_smooth()
                 bpy.ops.export_scene.fbx(filepath=fbx_file)
 

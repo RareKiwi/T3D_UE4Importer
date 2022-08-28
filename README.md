@@ -37,8 +37,8 @@ Place loose files somewhere in your projects __*`/Content/`*__
 
 [UE4-T3DConverter](https://forums.unrealengine.com/t/tool-ue4-t3d-converter-for-bsp-brushes/4057)([Mirror](https://drive.google.com/uc?id=1JA8__aWtyCOZEmQXkwmSCT_SESt6y0At&export=download))  
 [UE Viewer](https://www.gildor.org/en/projects/umodel#files)  
-[Victory Plugin](https://forums.unrealengine.com/t/39-ramas-extra-blueprint-nodes-for-you-as-a-plugin-no-c-required/3448)([4.27 Direct Link](https://www.mediafire.com/file/1snjjuxuoqs6b4g/VictoryPlugin27.zip/file))
-[Blender](https://www.blender.org/download/) and [Blender PSK plugin](https://github.com/matyalatte/blender3d_import_psk_psa)
+[Victory Plugin](https://forums.unrealengine.com/t/39-ramas-extra-blueprint-nodes-for-you-as-a-plugin-no-c-required/3448)([4.27 Direct Link](https://www.mediafire.com/file/1snjjuxuoqs6b4g/VictoryPlugin27.zip/file))  
+[Blender](https://www.blender.org/download/) and [Blender PSK plugin](https://github.com/matyalatte/blender3d_import_psk_psa/releases)
 
 ## Usage:
 

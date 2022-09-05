@@ -22,7 +22,7 @@ T3D UE4Importer is a collection of UE4 Editor Utility widgets that can be used t
 
 Use __*[Code > Download ZIP](../../archive/refs/heads/main.zip)*__
 
-## [Install:](../wiki/Install)
+## [Install:](../../wiki/Install)
 
 Place loose files somewhere in your projects __*`/Content/`*__
 

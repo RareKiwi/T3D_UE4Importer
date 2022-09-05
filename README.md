@@ -22,7 +22,7 @@ T3D UE4Importer is a collection of UE4 Editor Utility widgets that can be used t
 
 Use __*[Code > Download ZIP](../../archive/refs/heads/main.zip)*__
 
-## Install:
+## [Install:](./wiki/Install)
 
 Place loose files somewhere in your projects __*`/Content/`*__
 
@@ -30,7 +30,6 @@ Place loose files somewhere in your projects __*`/Content/`*__
 
 > Requires the engine plugin __*Editor Scripting Utilities*__ & __*UE4.27*__  
 [Victory Plugin](https://forums.unrealengine.com/t/39-ramas-extra-blueprint-nodes-for-you-as-a-plugin-no-c-required/3448) is needed but the main widget can be modified to not need it. The ImporterFBX widget requires the plugin to function.
-
 
 
 ## Used Software:
